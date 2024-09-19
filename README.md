@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-AI-POWERED INTELLIGENT [https://ai-chat-opal-seven.vercel.app/]
+[AI-POWERED INTELLIGENT] (https://ai-chat-opal-seven.vercel.app/)
 
 ## Available Scripts
 
